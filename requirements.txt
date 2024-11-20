@@ -1,0 +1,8 @@
+cmake
+opencv-python
+matplotlib
+seaborn
+dlib
+opencv-contrib-python 
+scipy
+IPython
